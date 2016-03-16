@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Text Solution</string>
+    <string name="opis"><b>Text Solution</b>- text process automatization.\nLower/higher case letters, paragraphs and first letter capitons</string>
+    <string name="opis2"><b>Text Solution</b>- text process automatization. Lower/higher case letters, paragraphs and first letter capitons</string>
+    <string name="savet">Paste your text here</string>
+    <string name="nazad">Back</string>
+    <string name="poruka">We expect\nthis will\nimprove\nyour\nmessaging</string>
+    <string name="poruka2">We expect this will improve your messaging</string>
+    <string name="pretraga">. </string>
+    <string name="rb1">To lower case</string>
+    <string name="rb2">To upper case</string>
+    <string name="rb3">Toggle case</string>
+    <string name="paragraf">Paragraph</string>
+    <string name="sentence_caps">Sentence caps</string>
+    <string name="ButtonProcess">Process</string>
+
+</resources>
